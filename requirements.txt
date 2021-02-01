@@ -1,0 +1,4 @@
+pySmartDL
+youtube-dl
+ffmpy
+validators
