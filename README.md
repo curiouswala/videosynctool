@@ -3,7 +3,9 @@ Got one file with good audio and one with good video? Worry not! videosynctool w
 
 ## Setup
 ```git clone https://github.com/curiouswala/videosynctool```
+
 ```cd videosynctool```
+
 ```pip install -r requirements.txt```
 
 ## Usage
