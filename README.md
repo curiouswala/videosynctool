@@ -7,3 +7,8 @@ Usage:
 ```python videosynctool.py audio_source_file/youtube_url video_source_file/youtube_url [time_offset]```
 
 Output is saved in synced.mp4
+
+## TODO
+* add auto quality selection for youtube(for now it only runs with 720p)
+* add visual sync for situation where one video doesn't have any audio.
+* make a manual offset finder gui with two videos playing side by side with an offset tuner.
