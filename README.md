@@ -3,5 +3,7 @@ Got one file with good audio and one with good video? Worry not! videosynctool w
 
 git clone https://github.com/curiouswala/videosynctool
 
-Usage: python videosynctool.py audio_source_file/youtube_url video_source_file/youtube_url [time_offset]
-Outputs synced.mp4
+Usage: 
+```python videosynctool.py audio_source_file/youtube_url video_source_file/youtube_url [time_offset]```
+
+Output is saved in synced.mp4
